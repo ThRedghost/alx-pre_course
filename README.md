@@ -1,1 +1,1 @@
-My first readme
+directory to git 01
